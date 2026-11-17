@@ -1,0 +1,28 @@
+src/core/runs.ts
+  s_907581c60a10a9::t_39b38849bd165b 2450
+  s_907581c60a10a9::t_961f6bfdc9cbb4 11-12
+  s_907581c60a10a9::t_8f212536973dbd 1157
+  s_907581c60a10a9::t_cd954fb5e2806c 2541-2544
+  s_907581c60a10a9::t_7aeaf75c65681a 2320
+  s_907581c60a10a9::t_78c61e1cd1b232 2568
+  s_907581c60a10a9::t_f95e501e56e0d5 2349-2367
+test/harness-hooks.test.ts
+  s_907581c60a10a9::t_a8601c3bb2d190 64-66
+  s_907581c60a10a9::t_b77925827f3bc6 1-63,67-113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a2360b192485e304277c3ba15a7640fd4a60e5c7",
+  "prompts": {},
+  "sessions": {
+    "s_907581c60a10a9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "93069d07-d8c7-48ec-9547-8526b504f269",
+        "model": "grok-4.6"
+      },
+      "human_author": "andre.stoicov <andre.stoicov@ifood.com.br>"
+    }
+  }
+}
