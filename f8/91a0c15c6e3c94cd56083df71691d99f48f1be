@@ -1,0 +1,41 @@
+src/renderer/src/store.ts
+  s_907581c60a10a9::t_bb954dd055b366 827
+  s_907581c60a10a9::t_a27481c4284f36 1021-1023
+src/renderer/src/components/Conversation.tsx
+  s_907581c60a10a9::t_cd1584f8aded20 1492
+  s_907581c60a10a9::t_424c5cb20750f3 1517-1524
+  s_907581c60a10a9::t_39f756926014ca 621
+  s_907581c60a10a9::t_a60d5cf7002045 8
+src/renderer/src/components/Pages.tsx
+  s_907581c60a10a9::t_2382135df876d6 31
+  s_907581c60a10a9::t_f0a486795dffce 30
+  s_907581c60a10a9::t_e85e450479cc25 596-611
+  s_907581c60a10a9::t_e7b1b45d3a08b7 2801
+  s_907581c60a10a9::t_fa62f050199c83 582-595,612-617
+  s_907581c60a10a9::t_727602997423f3 2060-2110
+  s_907581c60a10a9::t_582edd25dcf032 581
+  s_907581c60a10a9::t_324ad6f5946f13 2111-2112
+  s_907581c60a10a9::t_fa844371057f4f 2802
+SECURITY.md
+  s_907581c60a10a9::t_19f842514b60bf 24-27
+README.md
+  s_907581c60a10a9::t_6645b1be21991f 100-101
+README.pt-BR.md
+  s_907581c60a10a9::t_1d42a0c672cb82 100-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f891a0c15c6e3c94cd56083df71691d99f48f1be",
+  "prompts": {},
+  "sessions": {
+    "s_907581c60a10a9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "93069d07-d8c7-48ec-9547-8526b504f269",
+        "model": "grok-4.6"
+      },
+      "human_author": "andre.stoicov <andre.stoicov@ifood.com.br>"
+    }
+  }
+}
