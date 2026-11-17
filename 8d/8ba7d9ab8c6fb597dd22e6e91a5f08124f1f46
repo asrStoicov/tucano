@@ -1,0 +1,49 @@
+src/core/index.ts
+  s_907581c60a10a9::t_f9cbd76848e0d9 2151-2156
+  s_907581c60a10a9::t_237f3e3f2983d8 2082-2091
+  s_907581c60a10a9::t_c27fe899dee0f5 61
+  s_907581c60a10a9::t_da79413af9ad24 1634-1636
+  s_907581c60a10a9::t_918dc4b4db8c39 2150
+src/core/db.ts
+  s_907581c60a10a9::t_ac349035cd6d73 889
+  s_907581c60a10a9::t_e8dc8b20f1490b 563
+  s_907581c60a10a9::t_adc72b7b44fdd0 914-915,919,921
+src/shared/rpc.ts
+  s_907581c60a10a9::t_05bb9c347e5c9c 139
+src/shared/types.ts
+  s_907581c60a10a9::t_1de972198605ac 196
+  s_907581c60a10a9::t_141482e0ab61da 562-563
+  s_907581c60a10a9::t_d7365183e1d5d4 496-528
+  s_907581c60a10a9::t_3e508b01f1818f 93
+src/shared/workspaces.ts
+  s_907581c60a10a9::t_c9024436c87a8f 9
+test/hooks.test.ts
+  s_907581c60a10a9::t_9ad87243738061 59
+  s_907581c60a10a9::t_db27b13a1fde91 2-58,60-80
+  s_907581c60a10a9::t_663af8a204312c 1
+src/core/hooks.ts
+  s_907581c60a10a9::t_9175489081fe00 1-73,75-183
+  s_907581c60a10a9::t_5e0db47b28f282 74
+src/core/policy-people.ts
+  s_907581c60a10a9::t_eb84228202e2a9 245
+src/core/settings-patch.ts
+  s_907581c60a10a9::t_fb6570172a8b18 35
+src/shared/rpc-shapes.ts
+  s_907581c60a10a9::t_4dff841d76e674 110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8d8ba7d9ab8c6fb597dd22e6e91a5f08124f1f46",
+  "prompts": {},
+  "sessions": {
+    "s_907581c60a10a9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "93069d07-d8c7-48ec-9547-8526b504f269",
+        "model": "grok-4.6"
+      },
+      "human_author": "andre.stoicov <andre.stoicov@ifood.com.br>"
+    }
+  }
+}
