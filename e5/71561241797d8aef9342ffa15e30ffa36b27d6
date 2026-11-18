@@ -1,0 +1,48 @@
+SECURITY.md
+  s_907581c60a10a9::t_653cac2616ae76 27
+src/core/index.ts
+  s_907581c60a10a9::t_8ea035b4c83c78 2087-2089
+  s_907581c60a10a9::t_724a94fb698230 2157-2160
+test/harness-hooks.test.ts
+  s_907581c60a10a9::t_b1e1afbb274517 35-36
+  s_907581c60a10a9::t_4aae42eb37a323 20
+  s_907581c60a10a9::t_e697f3bf8f6337 86,88
+test/hooks.test.ts
+  s_907581c60a10a9::t_2d0ca7903389ca 66-71
+  s_907581c60a10a9::t_e4eace51b817f5 14-16
+src/renderer/src/components/Conversation.tsx
+  s_907581c60a10a9::t_bb049fd3c92679 74
+  s_907581c60a10a9::t_12815c32938fbe 620
+  s_907581c60a10a9::t_c41d159d0867fd 623
+  s_907581c60a10a9::t_a66fee899a539c 1494-1516,1542
+src/renderer/src/store.ts
+  s_907581c60a10a9::t_e0cde70c166780 827
+src/core/runs.ts
+  s_907581c60a10a9::t_e223e2939ed2e1 2350-2355
+src/core/hooks.ts
+  s_907581c60a10a9::t_459a776e106deb 122
+  s_907581c60a10a9::t_e6087f5ce308c7 4,7
+  s_907581c60a10a9::t_a36457b3725a33 49-51,53
+  s_907581c60a10a9::t_26bc587c6ba25f 68,78
+  s_907581c60a10a9::t_fe3dce1d7b7d16 98,101
+src/renderer/src/components/Pages.tsx
+  s_907581c60a10a9::t_8101c6e0211396 2060-2064,2068-2071,2074-2096,2110-2119,2125-2132,2139,2143,2147
+src/shared/types.ts
+  s_907581c60a10a9::t_6d450a61247c14 514
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e571561241797d8aef9342ffa15e30ffa36b27d6",
+  "prompts": {},
+  "sessions": {
+    "s_907581c60a10a9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "93069d07-d8c7-48ec-9547-8526b504f269",
+        "model": "grok-4.6"
+      },
+      "human_author": "andre.stoicov <andre.stoicov@ifood.com.br>"
+    }
+  }
+}
