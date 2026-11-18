@@ -1,0 +1,20 @@
+src/renderer/src/components/Pages.tsx
+  s_907581c60a10a9::t_70de76af0caf1c 30-31,2444-2496,3210
+  s_907581c60a10a9::t_05b22c7d9f6994 925-950
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e737ebd83c4755f9ce3dcadc2324d1b90c5670fa",
+  "prompts": {},
+  "sessions": {
+    "s_907581c60a10a9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "93069d07-d8c7-48ec-9547-8526b504f269",
+        "model": "grok-4.6"
+      },
+      "human_author": "andre.stoicov <andre.stoicov@ifood.com.br>"
+    }
+  }
+}
